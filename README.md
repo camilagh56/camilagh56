@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola, mi nombre es Maria Camila Gómez Gómez 👋
+
+# Soy desarrolladora Full Stack. Mis ganas de aprendizaje continuo me llevaron a surmergirme en este mundo, gracias a esto ya tengo conocimientos en Javascript | HTML | CSS | React | NodeJs | Redux | PostgreSQL | SQL | Sequelize | Express | Tailwind CSS |.
 
 <!--
 **camilagh56/camilagh56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
